@@ -71,4 +71,5 @@ void loop() {
   }else{
     Serial.print("Incorrect");
   }
+  buttonPressed = -1;
 }
